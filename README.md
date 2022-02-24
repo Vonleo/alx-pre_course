@@ -1,2 +1,2 @@
 My first readme
-I love ALX!
+Git is so cool! I love ALX!
